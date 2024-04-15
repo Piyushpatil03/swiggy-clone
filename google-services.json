@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "250234268009",
+    "project_id": "swiggy-auth-e6d1f",
+    "storage_bucket": "swiggy-auth-e6d1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250234268009:android:b7c8af1d397c884c0075f8",
+        "android_client_info": {
+          "package_name": "com.piyushdi.swiggy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE4CSvtfmI2tx4EdM4pufE5nDrKdcFGxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
